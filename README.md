@@ -1,3 +1,13 @@
+# Tic Tac Toe
+
+Hooks version of https://reactjs.org/tutorial/tutorial.html.
+
+## Solution
+
+Take a look at `solution` branch.
+
+## Create React APp
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
