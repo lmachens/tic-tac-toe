@@ -1,9 +1,5 @@
 import React from "react";
 
-export default function Square(props) {
-  return (
-    <button className="square" onClick={props.onClick}>
-      {/* TODO */}
-    </button>
-  );
+export default function Square() {
+  return <button className="square">{/* TODO */}</button>;
 }
