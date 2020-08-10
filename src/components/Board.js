@@ -1,3 +1,4 @@
+import "./board.css";
 import React from "react";
 import Square from "./Square";
 

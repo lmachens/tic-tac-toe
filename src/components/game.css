@@ -1,0 +1,9 @@
+.game {
+  display: flex;
+  flex-direction: row;
+}
+
+.game ol,
+.game ul {
+  padding-left: 30px;
+}
