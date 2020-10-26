@@ -3,7 +3,6 @@
   flex-direction: row;
 }
 
-.game ol,
-.game ul {
-  padding-left: 30px;
+.game-info {
+  margin-left: 20px;
 }

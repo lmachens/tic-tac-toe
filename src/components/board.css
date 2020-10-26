@@ -1,8 +1,9 @@
-.status {
-  margin-bottom: 12px;
+.board-row:after {
+  clear: both;
+  content: "";
+  display: table;
 }
 
-.board {
-  display: grid;
-  grid-template-columns: auto auto auto;
+.status {
+  margin-bottom: 10px;
 }
